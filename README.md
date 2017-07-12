@@ -1,0 +1,1 @@
+![Screenshot](images/RecipientScreenshot.png)
